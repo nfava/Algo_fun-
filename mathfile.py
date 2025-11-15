@@ -10,7 +10,7 @@ estimated_prob_B = 1 - estimated_prob_A
 
 # Sportsbook American odds:
 odds_A = 250                  # example: Jack Della Maddalena +250
-odds_B = -320                 # example: Islam Makhachev -320
+odds_B = -290                 # example: Islam Makhachev -320
 
 fighter_A_name = "Jack Della Maddalena"
 fighter_B_name = "Islam Makhachev"
